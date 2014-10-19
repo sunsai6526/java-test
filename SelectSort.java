@@ -13,7 +13,7 @@ public class SelectSort {
 			
 			QuickSort.swap(a, min, i);
 			min = i + 1;
-		}
+		} 
 	}
 
 }
